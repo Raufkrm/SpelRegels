@@ -209,7 +209,7 @@ const copy = {
       ],
       win: 'The first player with four pieces in a straight line wins!',
     },
-    footer: "Made by and for de madeliefjesklas from the shcool 'De Uitvlinder'",
+    footer: "Made by and for de madeliefjesklas from the school 'De Uitvlinder'",
   },
 }
 
