@@ -126,7 +126,7 @@ const copy = {
       ],
       win: 'De eerste speler met vier schijfjes op een rechte lijn wint!',
     },
-    footer: "Gemaakt voor en door de madeliefjes klas van de leeftschool 'De Uitvlinder'",
+    footer: "Gemaakt voor en door de madeliefjes klas van de leefschool 'De Uitvlinder'",
   },
   en: {
     nav: {
@@ -209,7 +209,7 @@ const copy = {
       ],
       win: 'The first player with four pieces in a straight line wins!',
     },
-    footer: "Gemaakt voor en door de madeliefjes klas van de leeftschool 'De Uitvlinder'",
+    footer: "Made by and for de madeliefjesklas from the shcool 'De Uitvlinder'",
   },
 }
 
